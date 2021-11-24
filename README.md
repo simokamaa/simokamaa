@@ -1,8 +1,9 @@
-- Am simon kamau from kenya 
+- Am simon kamau from kenya Nairobi 🇰🇪
 - Am currently taking  bachelors of science in computer science at the east african university 
 - 🌱 Am learning more of programming languages 
 - programming is my leisure and love 
-- 📫 How to reach me ...
+- 📫 Am an expert in front end development work as well as back end Web development 
+
 
 <!---
 simokamaa/simokamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
