@@ -3,7 +3,8 @@
 - 🌱 Am learning more of programming languages 
 - programming is my leisure and love 
 - 📫 Am an expert in front end development work as well as back end Web development 
-- i have sucesfully managed to build an android application that uses bluetooth sockectst
+- i have sucesfully managed to build an android application that uses bluetooth sockects
+-expert in developing artificial neural networks using some machine learning and deep learning algorithms
 
 
 <!---
