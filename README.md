@@ -3,8 +3,8 @@
 - 🌱 Am learning more of programming languages 
 - programming is my leisure and love 
 - 📫 Am an expert in front end development work as well as back end Web development .
--expert in developing artificial neural networks using some machine learning and deep learning algorithms
-i love contributing to open source projects
+- expert in developing artificial neural networks using some machine learning and deep learning algorithms
+- i love contributing to open source projects
 
 <!---
 simokamaa/simokamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
