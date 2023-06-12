@@ -22,4 +22,5 @@ I am simon kamau,<br>I am taking bachelor of science in computer science at the 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=simokamaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=simokamaa&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
