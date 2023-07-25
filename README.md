@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am simon kamau,<br>I am taking bachelor of science in computer science at the east african university kitengela<br>I am a part of the university ICT club<br>I love contributing to open source projects<br>php/laravel are one of my favourites<br><br>I am a full stack javascript developer<br>I am developing my startup company software<br>I use javascript,reactjs,react native,Nodejs,nextjs,php,laravel,python,Django,numpy,pandas,matplotlib,ipython<br>I am learning tensorflow and spacy<br>Solving problems,and turning problems into business is my love<br>I have talented entrepreneurial mind<br>I mentor upcoming developers<br>I develop enterprise softwares to mordenize businesses<br>link to my first profile:https://simonpersonalportofolio.on.drv.tw/www.kamauwaweru.com/
+I am simon kamau,<br>I am taking bachelor of science in computer science at the east african university kitengela<br>I am a part of the university ICT club<br>I love contributing to open source projects<br>php/laravel are one of my favourites<br><br>I am a full stack javascript developer<br>I am developing my startup product<br>I am learning tensorflow and spacy<br>I have talented entrepreneurial mind<br>I mentor upcoming developers<br>Coding love++<br>link to my first profile:https://simonpersonalportofolio.on.drv.tw/www.kamauwaweru.com/
 
 
 ## 🌐 Socials:
@@ -18,8 +18,7 @@ I am simon kamau,<br>I am taking bachelor of science in computer science at the 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 <a href="https://app.daily.dev/simonkamau"><img src="https://api.daily.dev/devcards/0f4c3333080a409bad72be788de420fd.png?r=bzk" width="400" alt="Simon Kamau's Dev Card"/></a>
