@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am simon kamau<br>I am taking bachelor of science in computer science at the east african university kitengela<br>I am a part of the university ICT club<br>I love contributing to open source projects<br>I am a full stack javascript developer<br>I am developing my startup product<br>I am learning tensorflow and spacy<br>I have talented entrepreneurial mind<br>I mentor upcoming developers<br>Coding love++<br>link to my first profile:https://simonpersonalportofolio.on.drv.tw/www.kamauwaweru.com/
+Am simon kamau<br>I am taking bachelor of science in computer science at the east african university kitengela<br>I am a part of the university ICT club<br>I love contributing to open source projects<br>I am a full stack javascript developer<br>I am developing my startup product<br>I am learning tensorflow and spacy<br>DM for your startup IDEA &&& COLLABORATION<br>I mentor upcoming developers<br>Coding love++<br>link to my first profile:https://simonpersonalportofolio.on.drv.tw/www.kamauwaweru.com/
 
 
 ## 🌐 Socials:
