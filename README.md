@@ -5,7 +5,7 @@ Am learning tensorflow and Keras
 <br>
 Am over exploring Data Structures and algorithms,,,LeetCode , hackerrank and other sources for DS/ALGO problems
 <br>
-Feel free to reach out to me for your startup idea &&& collaborative project
+Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kamauwaweru0/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kamaaawaweru/)
