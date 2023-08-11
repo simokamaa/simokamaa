@@ -3,7 +3,7 @@ Am persuing bachelor of science in computer science at The East African Universi
 <br>
 Am learning tensorflow and Keras
 <br>
-Am over exploring Data Structures and algorithms,,,LeetCode , hackerrank and other sources for DS/ALGO problems
+I'm currently immersed in exploring Data Structures and algorithms
 <br>
 Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
 ## 🌐 Socials:
