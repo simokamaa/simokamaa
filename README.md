@@ -6,6 +6,8 @@ Am learning tensorflow and Keras
 I'm currently immersed in exploring Data Structures and algorithms
 <br>
 Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
+<br>
+My blog Posts: https://kamauwaweru.blogspot.com/
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kamauwaweru0/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kamaaawaweru/)
