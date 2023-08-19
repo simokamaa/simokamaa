@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am persuing bachelor of science in computer science at The East African University Kitengela
+Am persuing bachelor of science in computer science at The East African University Kitengela.
 <br>
 Am learning Tensorflow and Keras.
 <br>
