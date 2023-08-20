@@ -3,7 +3,7 @@ Am persuing bachelor of science in computer science at The East African Universi
 <br>
 Am learning Tensorflow and Keras.
 <br>
-I'm currently immersed in exploring Data Structures and algorithms
+I'm currently immersed in exploring Data Structures and algorithms.
 <br>
 Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
 <br>
