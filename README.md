@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello Earthlings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Earthlings" width="28" /></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Am+Simon+Kamau;I+Love+to+Code;I+am+Student;I+love+software+development+as+a+Whole;Am+currently+doing++research+on+Deep+Neural+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Am+Simon+Kamau;I+Love+to+Code;I+am+Student;I+love+software+development+as+a+Whole;Am+currently+doing++research+on+Deep+Neural+Networks)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Am persuing bachelor of science in computer science at The East African University Kitengela.
