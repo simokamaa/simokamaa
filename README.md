@@ -2,8 +2,9 @@
 <h2 align="center">Hello Earthlings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Earthlings" width="28" /></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=550&lines=Hi%2C+I+am+Mr.+Simon+Kamau;I+Really+Love+Code+%E2%9D%A4%EF%B8%8F+;I+am+doing+research+on+deep+Neural+networks;Am+an+upcoming+blockchain+developer;I+am+a+Student)](https://git.io/typing-svg)
-<ul>
+
 # 💫 About Me:
+  <ul>
 <li> Am persuing bachelor of science in computer science at The East African University Kitengela.</li>
 <br>
 <li> Am learning Tensorflow and Keras.</li>
