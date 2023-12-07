@@ -4,21 +4,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=550&lines=Hi%2C+I+am+Mr.+Simon+Kamau;I+Really+Love+Code+%E2%9D%A4%EF%B8%8F+;I+am+doing+research+on+deep+Neural+networks;Am+an+upcoming+blockchain+developer;I+am+a+Student)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Am persuing bachelor of science in computer science at The East African University Kitengela.
+ Am persuing bachelor of science in computer science at The East African University Kitengela.
 <br>
--  Am learning Tensorflow and Keras.
+ Am learning Tensorflow and Keras.
 <br>
-- I'm currently immersed in exploring Data Structures and algorithms.
+I'm currently immersed in exploring Data Structures and algorithms.
 <br>
-- Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
+Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
 <br>
-- Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development
+Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development
 <br>
-- Super pro in Computer Vision and Natural Language Processing
+Super pro in Computer Vision and Natural Language Processing
 <br>
-- What about agumented reality and virtual reality "AR/VR"? slide
+What about agumented reality and virtual reality "AR/VR"? slide
 <br>
-- My blog Posts : https://kamauwaweru.blogspot.com
+My blog Posts : https://kamauwaweru.blogspot.com
   
 ## 🌐 Socials:
 
