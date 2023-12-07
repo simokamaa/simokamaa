@@ -2,23 +2,24 @@
 <h2 align="center">Hello Earthlings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Earthlings" width="28" /></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=550&lines=Hi%2C+I+am+Mr.+Simon+Kamau;I+Really+Love+Code+%E2%9D%A4%EF%B8%8F+;I+am+doing+research+on+deep+Neural+networks;Am+an+upcoming+blockchain+developer;I+am+a+Student)](https://git.io/typing-svg)
-
+<ul>
 # 💫 About Me:
- Am persuing bachelor of science in computer science at The East African University Kitengela.
+<li> Am persuing bachelor of science in computer science at The East African University Kitengela.</li>
 <br>
- Am learning Tensorflow and Keras.
+<li> Am learning Tensorflow and Keras.</li>
 <br>
-I'm currently immersed in exploring Data Structures and algorithms.
+<li>I'm currently immersed in exploring Data Structures and algorithms.</li>
 <br>
-Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
+<li>Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.</li>
 <br>
-Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development
+<li>Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development</li>
 <br>
-Super pro in Computer Vision and Natural Language Processing
+<li>Super pro in Computer Vision and Natural Language Processing</li>
 <br>
-What about agumented reality and virtual reality "AR/VR"? slide
+<li>What about agumented reality and virtual reality "AR/VR"? slide</li>
 <br>
-My blog Posts : https://kamauwaweru.blogspot.com
+<li>My blog Posts : https://kamauwaweru.blogspot.com</li>
+</ul>
   
 ## 🌐 Socials:
 
