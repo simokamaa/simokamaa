@@ -14,7 +14,7 @@ Feel welcome to get in touch regarding your startup ideas as well as any collabo
 <br>
 Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development
 <br>
-Super pro in Computer Vision and natural language processing
+Super pro in Computer Vision and Natural Language Processing
 <br>
 What about agumented reality and virtual reality "AR/VR"? slide
 <br>
