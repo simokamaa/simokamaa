@@ -12,6 +12,12 @@ I'm currently immersed in exploring Data Structures and algorithms.
 <br>
 Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.
 <br>
+Talk of software Development, Data Engineering , Machine Learning/AI and BlockChain Development
+<br>
+Super pro in Computer Vision and natural language processing
+<br>
+What about agumented reality and virtual reality "AR/VR"? slide
+<br>
 My blog Posts  :  https://kamauwaweru.blogspot.com
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kamauwaweru0/)
