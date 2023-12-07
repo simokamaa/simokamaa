@@ -17,7 +17,7 @@
 <br>
 <li>Super pro in Computer Vision and Natural Language Processing</li>
 <br>
-<li>What about agumented reality and virtual reality "AR/VR"? slide</li>
+<li>What about agumented reality and virtual reality "AR/VR"? i love %E2%9D%A4%EF%B8%8F </li>
 <br>
 <li>My blog Posts : https://kamauwaweru.blogspot.com</li>
 </ul>
