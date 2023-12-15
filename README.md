@@ -5,21 +5,21 @@
 
 # 💫 About Me:
   <ul>
-<li> Am persuing bachelor of science in computer science at The East African University Kitengela.</li>
+<li>Currently pursuing a Bachelor of Science in Computer Science at The East African University, Kitengela.</li>
 <br>
 <li> Am learning Tensorflow and Keras.</li>
 <br>
 <li>I'm currently immersed in exploring Data Structures and algorithms.</li>
 <br>
-<li>Feel welcome to get in touch regarding your startup ideas as well as any collaborative projects.</li>
+<li>Feel free to reach out for discussions on startup ideas or collaborative projects.</li>
 <br>
 <li>Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development</li>
 <br>
 <li>Super pro in Computer Vision and Natural Language Processing</li>
 <br>
-<li>What about agumented reality and virtual reality "AR/VR"? i love ❤️❤️ </li>
+<li>>Enthusiastic about Augmented Reality and Virtual Reality ("AR/VR") - I love ❤️❤️ </li>
 <br>
-<li>My blog Posts : https://kamauwaweru.blogspot.com</li>
+<li>Checkout my My blog posts : https://kamauwaweru.blogspot.com</li>
 </ul>
   
 ## 🌐 Socials:
