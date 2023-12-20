@@ -17,7 +17,7 @@
 <br>
 <li>Super pro in Computer Vision and Natural Language Processing</li>
 <br>
-<li>>Enthusiastic about Augmented Reality and Virtual Reality ("AR/VR") - I love ❤️❤️ </li>
+<li>Enthusiastic about Augmented Reality and Virtual Reality ("AR/VR") - I love ❤️❤️ </li>
 <br>
 <li>Checkout my My blog posts : https://kamauwaweru.blogspot.com</li>
 </ul>
