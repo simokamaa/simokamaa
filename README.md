@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=550&lines=Hi%2C+I+am+Mr.+Simon+Kamau;I+Really+Love+Code+%E2%9D%A4%EF%B8%8F+;I+am+doing+research+on+deep+Neural+networks;Am+an+upcoming+blockchain+developer;I+am+a+Student)](https://git.io/typing-svg)
 
+# Engineering and Developing Teachnology
 
 # 💫 About Me:
   <ul>
