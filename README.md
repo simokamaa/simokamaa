@@ -16,7 +16,7 @@
 <br>
 <li>Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development.</li>
 <br>
-<li>Super pro in Computer Vision and Natural Language Processing</li>
+<li>Super pro in Computer Vision and Natural Language Processing.</li>
 <br>
 <li>Enthusiastic about Augmented Reality and Virtual Reality ("AR/VR") - I love ❤️❤️ </li>
 <br>
