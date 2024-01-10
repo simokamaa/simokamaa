@@ -14,7 +14,7 @@
 <br>
 <li>Feel free to reach out for discussions on startup ideas or collaborative projects.</li>
 <br>
-<li>Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development</li>
+<li>Talk of Software Development, Data Engineering , Machine Learning/AI and BlockChain Development.</li>
 <br>
 <li>Super pro in Computer Vision and Natural Language Processing</li>
 <br>
