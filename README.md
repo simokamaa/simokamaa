@@ -10,7 +10,7 @@
 <br>
 <li> Am learning Tensorflow and Keras.</li>
 <br>
-<li>I have an in depth understanding of ins and outs of Java, Javascript, Python, PHP and C++ ::->and their userful frameworks and libraries.<li>
+<li>I have an in depth understanding of ins and outs of Java, Javascript, Python, PHP and C++ ::->and their userful frameworks and libraries.</li>
 <br>
 <li>I'm currently immersed in exploring Data Structures and algorithms.</li>
 <br>
