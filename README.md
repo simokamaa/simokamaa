@@ -20,7 +20,7 @@
 <br>
 <li>Enthusiastic about Augmented Reality and Virtual Reality ("AR/VR") - I love ❤️❤️ </li>
 <br>
-<li>Determined to accelerate development of Technology, Through open source Contributions</li>
+<li>Determined to accelerate development of Technology, Through open source Contributions.</li>
 <br>
 <li>Checkout my My blog posts : https://kamauwaweru.blogspot.com</li>
 </ul>
