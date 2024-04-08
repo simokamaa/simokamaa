@@ -46,9 +46,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-
----
-<a href="https://app.daily.dev/simonkamau"><img src="https://api.daily.dev/devcards/0f4c3333080a409bad72be788de420fd.png?r=bzk" width="400" alt="Simon Kamau's Dev Card"/></a>
-
-
 [![](https://visitcount.itsvg.in/api?id=simokamaa&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
