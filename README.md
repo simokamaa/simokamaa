@@ -8,7 +8,7 @@
   <ul>
 <li>Currently pursuing a Bachelor of Science in Computer Science at The East African University, Kitengela.</li>
 <br>
-<li> Am learning Tensorflow and Keras.</li>
+<li>Artificial Intelligence-guru in ML and Deep Learning Using morden tools Like Tensorflow and Keras API</li>
 <br>
 <li>I'm currently immersed in exploring Data Structures and algorithms.</li>
 <br>
