@@ -6,7 +6,7 @@
 
 # 💫 About Me:
   <ul>
-<li>Currently pursuing a Bachelor of Science in Computer Science at The East African University, Kitengela.</li>
+<li>Final Year - pursuing a Bachelor of Science in Computer Science at The East African University, Kitengela.</li>
 <br>
 <li>A master of machine and deep learning, wielding cutting-edge tools like TensorFlow and Keras to build and train intelligent systems. </li>
 <br>
