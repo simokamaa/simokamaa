@@ -12,15 +12,11 @@
 <br>
 <li>I'm currently immersed in exploring Data Structures and algorithms.</li>
 <br>
-<li>Feel free to reach out for discussions on startup ideas or collaborative projects.</li>
-<br>
 <li>I am currently in the field of:  Software Development, Data Engineering , Machine Learning/AI and BlockChain Development.</li>
 <br>
 <li>Super pro in Computer Vision and Natural Language Processing.</li>
 <br>
 <li>Enthusiastic about Augmented Reality and Virtual Reality ("AR/VR") - I love ❤️❤️ </li>
-<br>
-<li>Determined to accelerate development of Technology, Through open source Contributions.</li>
 <br>
 <li>Checkout my My blog posts : https://kamauwaweru.blogspot.com</li>
 </ul>
@@ -37,9 +33,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simokamaa&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 [![](https://visitcount.itsvg.in/api?id=simokamaa&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
